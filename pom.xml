@@ -12,14 +12,14 @@
 <scm>
 	<connection>scm:git:https://github.com/islavath/helloworld.git</connection>
 	<developerConnection>scm:git:https://github.com/islavath/helloworld.git</developerConnection>
-  <tag>HEAD</tag>
   </scm>
 
 
-   
+<plugins>
 <plugin>
        <artifactId>maven-surefire-plugin</artifactId>
-</plugin>	
+</plugin>
+</plugins>	
 
 
 
