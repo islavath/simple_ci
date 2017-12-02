@@ -15,11 +15,11 @@
   </scm>
 
 
-<plugins>
+
 <plugin>
        <artifactId>maven-surefire-plugin</artifactId>
 </plugin>
-</plugins>	
+	
 
 
 
