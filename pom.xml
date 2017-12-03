@@ -18,11 +18,11 @@
 <distributionManagement>
     <repository>
       <id>release</id>
-      <url>http://192.168.67.129:8081/nexus-2.14.5-02/content/repositories/releases/</url>
+      <url>http://192.168.67.132:8081/nexus-2.14.5-02/content/repositories/releases/</url>
     </repository>
     <snapshotRepository>
       <id>snapshot</id>
-      <url>http://192.168.67.129:8081/nexus-2.14.5-02/content/repositories/snapshots/</url>
+      <url>http://192.168.67.132:8081/nexus-2.14.5-02/content/repositories/snapshots/</url>
     </snapshotRepository>
   </distributionManagement>
 
