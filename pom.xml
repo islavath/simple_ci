@@ -15,15 +15,6 @@
   </scm>
 
 
-<plugins>
-<plugin>
-       <artifactId>maven-surefire-plugin</artifactId>
-</plugin>
-</plugins>
-	
-
-
-
 <distributionManagement>
     <repository>
       <id>release</id>
@@ -46,5 +37,17 @@
   </dependencies>
   <build>
     <finalName>simple_webapp</finalName>
-  </build>
+
+
+    <plugins>
+<plugin>
+       <artifactId>maven-surefire-plugin</artifactId>
+</plugin>
+</plugins>
+
+
+
+  
+
+</build>
 </project>
